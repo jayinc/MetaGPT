@@ -51,6 +51,13 @@ python --version
 git clone https://github.com/geekan/metagpt
 cd metagpt
 python setup.py install
+
+# Step 3 (alternative): Use Pip
+Instead of using setup.py, you can use pip (which comes with Anaconda) to install the package:
+
+*pip install .*
+
+This command tells pip to install the package in the current directory (.).
 ```
 
 **Note:**
